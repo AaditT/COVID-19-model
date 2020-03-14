@@ -1,5 +1,5 @@
 # COVID-19-model
-## Machine learning-based logistic regression for confirmed COVID-19 cases that predicts carrying capacity of coronavirus (when coronavirus infections will stop) in a given region
+### Machine learning-based logistic regression for confirmed COVID-19 cases that predicts carrying capacity of coronavirus (when coronavirus infections will stop) in a given region
 
 • blue bar graph represents actual cases <br />
 • red line graph represents logistic regression model (predicts coronavirus' carrying capacity) <br />
