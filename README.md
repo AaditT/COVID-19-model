@@ -1,8 +1,9 @@
 # COVID-19-model
 ## Machine learning-based logistic regression for confirmed COVID-19 cases
 
-*blue bar graph represents actual cases*
-*red line graph represents logistic regression model (predicts coronavirus' carrying capacity)*
+& blue bar graph represents actual cases
+
+& red line graph represents logistic regression model (predicts coronavirus' carrying capacity)*
 
 Model of Hubei, China's COVID-19 Cases
 ![Logistic Regression Model of Hubei,China's confirmed COVID-19 cases](img/china-model.jpg)
