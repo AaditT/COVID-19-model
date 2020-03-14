@@ -4,5 +4,5 @@
 Model of Thailand's COVID-19 Cases
 ![Logistic Regression Model of Thailand's confirmed COVID-19 cases](img/thailand_model.jpg)
 
-Sources
+Dataset Source
 https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
