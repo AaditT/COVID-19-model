@@ -1,3 +1,3 @@
 # handwish-timer
 
-![Image](img/china-model.jpg)
+![Image](img/IMG_0097.jpeg)
